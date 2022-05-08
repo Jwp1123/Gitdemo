@@ -9,6 +9,9 @@ public class GitTest {
         System.out.println("我是m 我修改联网");
         System.out.println("我是江 我也是修改的");
         System.out.println("push");
+         System.out.println("我是远程拉过来的");
+         System.out.println("pull");
+        
 
     }
 }
