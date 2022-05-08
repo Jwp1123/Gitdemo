@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("git2");
         System.out.println("git3");
         System.out.println("我是jwp，我是来合并的");
+        System.out.println("我是m 我修改联网");
 
     }
 }
